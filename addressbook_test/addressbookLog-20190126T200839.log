@@ -1,0 +1,8 @@
+20:08:52.592 [main] INFO  addressbook_tR.test.TestBase - Start test: testLogin
+20:08:53.546 [main] INFO  addressbook_tR.test.TestBase - Stop test: testLogin
+20:08:53.549 [main] INFO  addressbook_tR.test.TestBase - Start test: testGroupCreation
+20:08:55.396 [main] INFO  addressbook_tR.test.TestBase - Stop test: testGroupCreation
+20:08:55.401 [main] INFO  addressbook_tR.test.TestBase - Start test: testGroupDelition
+20:08:56.416 [main] INFO  addressbook_tR.test.TestBase - Stop test: testGroupDelition
+20:08:56.418 [main] INFO  addressbook_tR.test.TestBase - Start test: testGroupModification
+20:08:58.736 [main] INFO  addressbook_tR.test.TestBase - Stop test: testGroupModification

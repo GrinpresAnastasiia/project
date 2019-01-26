@@ -1,0 +1,6 @@
+6377 [main] INFO  addressbook_tR.test.TestBase - Start test: testGroupDelition
+7203 [main] INFO  addressbook_tR.test.TestBase - Stop test: testGroupDelition
+6353 [main] INFO  addressbook_tR.test.TestBase - Start test: testGroupCreation
+7823 [main] INFO  addressbook_tR.test.TestBase - Stop test: testGroupCreation
+14:59:39.752 [main] INFO  addressbook_tR.test.TestBase - Start test: testGroupCreation
+14:59:40.920 [main] INFO  addressbook_tR.test.TestBase - Stop test: testGroupCreation

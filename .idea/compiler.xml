@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Julia.actions.main" target="1.8" />
+      <module name="Julia.actions.test" target="1.8" />
+      <module name="project.actions_selenium.main" target="1.8" />
+      <module name="project.actions_selenium.test" target="1.8" />
       <module name="project.project.main" target="1.8" />
       <module name="project.project.test" target="1.8" />
     </bytecodeTargetLevel>
